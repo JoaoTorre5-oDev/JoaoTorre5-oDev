@@ -1,7 +1,8 @@
 # Hello World!
-## Hi, I’m @JoaoTorre5-oDev
+## I’m Joao Torres
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoaoTorre5-oDev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JoaoTorre5-oDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTorre5&layout=pie)](https://github.com/JoaoTorre5-oDev)
 
 <div>
   <a href="https://github.com/JoaoTorre5-oDev">
