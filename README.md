@@ -1,6 +1,8 @@
 # Hello World!
 ## Hi, I’m @JoaoTorre5-oDev
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoaoTorre5-oDev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JoaoTorre5-oDev)
+
 <div>
   <a href="https://github.com/JoaoTorre5-oDev">
   <img heigth>
