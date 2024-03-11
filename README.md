@@ -2,7 +2,7 @@
 # I’m the Joao Torres
 
 - 📫 How to reach me:
-  <a href="https://joaotorre5-odev.github.io/meuPortifolio/" target="_blank"></a>
+  <a href="https://joaotorre5-odev.github.io/meuPortifolio/" target="_blank">https://joaotorre5-odev.github.io/meuPortifolio/</a>
   
     [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-torre5-the-developer/)
     [![WhathsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
